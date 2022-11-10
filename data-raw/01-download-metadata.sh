@@ -1,6 +1,6 @@
 # Bash script for downloading and parsing metadata files from gutenberg.org
 #
-# Tested on Ubuntu 22.04
+# Tested on Ubuntu 22.04 / Linux Mint 21
 
 # set file names
 f_name="rdf-files.tar.bz2"
